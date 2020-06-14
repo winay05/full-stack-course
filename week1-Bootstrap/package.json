@@ -8,9 +8,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "Vinay",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/winay05/full-stack-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/winay05/full-stack-course/issues"
+  },
+  "homepage": "https://github.com/winay05/full-stack-course#readme"
 }
