@@ -4,6 +4,8 @@
   "description": "Used for FullStack Dev speialisation on Coursera",
   "main": "index.html",
   "scripts": {
+    "start": "npm run lite",
+    "lite":"lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/winay05/full-stack-course/issues"
   },
-  "homepage": "https://github.com/winay05/full-stack-course#readme"
+  "homepage": "https://github.com/winay05/full-stack-course#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
